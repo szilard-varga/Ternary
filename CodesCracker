@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // code crackers
+// separate branch test
 public class CodesCracker
 {
    public static void main(String[] args)
