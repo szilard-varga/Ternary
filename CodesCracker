@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// code crackers
 public class CodesCracker
 {
    public static void main(String[] args)
