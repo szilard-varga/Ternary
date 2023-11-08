@@ -1,9 +1,10 @@
 public class Main {
 
+// check if a year is leap
   public static void main(String[] args) {
 
     // year to be checked
-    int year = 1900;
+    int year = 2023;
     boolean leap = false;
 
     // if the year is divided by 4
