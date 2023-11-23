@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// code crackers
+// code crackers - wish it was this simple..not
 public class CodesCracker
 {
    public static void main(String[] args)
