@@ -3,6 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
+// just appending
 public class AppendFile {
 
     public static void main(String[] args) {
