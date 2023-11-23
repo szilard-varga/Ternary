@@ -11,6 +11,7 @@ public class Armstrong {
         }
     }
 
+    // lack of better name :)
     public static boolean checkArmstrong(int num) {
         int digits = 0;
         int result = 0;
