@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.Iterator;
 
+// this is an example of iterator
 class Main {
     public static void main(String[] args) {
         LinkedList<String> animals= new LinkedList<>();
