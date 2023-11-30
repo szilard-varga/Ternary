@@ -1,5 +1,7 @@
+// test classes
 public class Armstrong {
 
+    // main class
     public static void main(String[] args) {
 
         int low = 999, high = 99999;
@@ -11,7 +13,7 @@ public class Armstrong {
         }
     }
 
-    // lack of better name :)
+    // best name found :)
     public static boolean checkArmstrong(int num) {
         int digits = 0;
         int result = 0;
