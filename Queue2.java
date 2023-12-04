@@ -1,3 +1,4 @@
+// test class for queue
 public class Queue {
   int SIZE = 5;
   int items[] = new int[SIZE];
@@ -93,12 +94,8 @@ public class Queue {
 
   public static void main(String[] args) {
 
-    // create an object of Queue class
+    // try to delete
     Queue q = new Queue();
-
-    // try to delete element from the queue
-    // currently queue is empty
-    // so deletion is not possible
     q.deQueue();
 
     // insert elements to the queue
