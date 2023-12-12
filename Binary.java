@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// the main class
 class Main {
   int binarySearch(int array[], int element, int low, int high) {
 
@@ -27,6 +28,7 @@ class Main {
     return -1;
   }
 
+  // the main method
   public static void main(String args[]) {
 
     // create an object of Main class
