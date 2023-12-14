@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-// the main starrting point
+// the main starting point
+// here we could add more details
 class Main {
   public static void main(String[] args) {
     
@@ -9,10 +10,10 @@ class Main {
     System.out.println("Enter your marks: ");
     double marks = input.nextDouble();
 
-    // ternary operator checks if
-    // marks is greater than 40
+    // ternary operator checks if marks is greater than 40
     String result = (marks > 40) ? "pass" : "fail";
 
+    // just print out
     System.out.println("You " + result + " the exam.");
     input.close();
   }
