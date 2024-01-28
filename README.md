@@ -1,2 +1,1 @@
-# Ternary
-Ternary
+# Banking System in Core Java
