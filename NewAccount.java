@@ -3,6 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
+// new account class
 public class NewAccount extends JInternalFrame implements ActionListener {
 
 	private JPanel jpInfo = new JPanel();
