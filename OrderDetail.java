@@ -1,8 +1,4 @@
-/**
- * Kazunori Hayashi
-* Version 1.0 29/7/2013
- */
-
+// test class for oder details
 public class OrderDetail
 {
     private int itemID;
