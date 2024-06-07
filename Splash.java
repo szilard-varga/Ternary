@@ -2,6 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 
+// this is a splash screen
 public class Splash extends JWindow {
 
 	private Dimension d = Toolkit.getDefaultToolkit().getScreenSize();
