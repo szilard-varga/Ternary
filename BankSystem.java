@@ -8,6 +8,7 @@ import java.io.*;
 import java.awt.PrintJob.*;
 import javax.swing.plaf.metal.*;
 
+// the is the system core
 public class BankSystem extends JFrame implements ActionListener, ItemListener {
 
 	//Main Place on Form where All Child Forms will Shown.
@@ -666,7 +667,7 @@ public class BankSystem extends JFrame implements ActionListener, ItemListener {
 		String data3 = "  Customer Name:     " + records[rec][1] + "\n";
 		String data4 = "  Last Transaction:  " + records[rec][2] + ", " + records[rec][3] + ", " + records[rec][4] + "\n";
 		String data5 = "  Current Balance:   " + records[rec][5] + "\n\n";
-		String data6 = "          Copyright © 2003 Muhammad Wasif Javed.\n";	//Page Footer.
+		String data6 = "          Copyright Â© 2003 Muhammad Wasif Javed.\n";	//Page Footer.
 		String sep0 = " -----------------------------------------------------------\n";
 		String sep1 = " -----------------------------------------------------------\n";
 		String sep2 = " -----------------------------------------------------------\n";
