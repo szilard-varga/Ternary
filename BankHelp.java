@@ -6,6 +6,7 @@ import java.io.*;
 import javax.swing.text.*;
 import javax.swing.event.*;
 
+// helper class - who write these anymore 
 public class BankHelp extends JInternalFrame {
 
 	public BankHelp (String title, String filename) {
