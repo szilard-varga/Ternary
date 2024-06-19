@@ -4,6 +4,7 @@ import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
 
+// the theme
 public class AquaTheme extends DefaultMetalTheme {
 
 	public String getName() {
