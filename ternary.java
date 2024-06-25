@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 // the main starting point
-// here we could add more details
 class Main {
   public static void main(String[] args) {
     
