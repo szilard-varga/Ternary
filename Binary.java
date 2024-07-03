@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// the main class
+// no more comments :)
 class Main {
   int binarySearch(int array[], int element, int low, int high) {
 
