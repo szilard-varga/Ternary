@@ -1,6 +1,3 @@
-// Java Program to check if 2 variables
-// among the 3 variables are true
-
 import java.util.Scanner;
 
 // main class
