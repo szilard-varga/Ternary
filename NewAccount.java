@@ -3,7 +3,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
-// new account class
 public class NewAccount extends JInternalFrame implements ActionListener {
 
 	private JPanel jpInfo = new JPanel();
@@ -249,6 +248,7 @@ public class NewAccount extends JInternalFrame implements ActionListener {
 	}
 
 	//Function use to Clear all TextFields of Window.
+	// clear all
 	void txtClear () {
 
 		txtNo.setText ("");
